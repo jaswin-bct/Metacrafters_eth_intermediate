@@ -15,7 +15,7 @@ contract Eligibility {
 
         } else {
             assert(_percent >= 75);
-              // internal considtency
+              // internal consistency
               
             
             return "Congratulations! You are eligible for the scholarship";
